@@ -1,0 +1,1 @@
+test: --format junit --out junit_format --format html --out report.html --format pretty
